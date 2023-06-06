@@ -1,7 +1,51 @@
-{
-  "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
-  "answer": 0,
-  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
-}
+[
+   {
+      "category": "Cultura",
+      "question": "¿Quién pintó la famosa obra 'La Mona Lisa'?",
+      "options": ["da Vinci","Van Gogh", "Miguelangel"],
+      "answer": 0,
+      "explanation": "La Mona Lisa fue pintada por Leonardo da Vinci, uno de los artistas más influyentes del Renacimiento italiano."
+    },
+     {
+      "category": "Cultura"
+      "question": "¿Cuál es el río más largo del mundo?",
+      "options": ["Rio de la Plata", "Rio Tamesis", "El río Amazonas"]
+      "answer": 2
+      "explanation": "El río Amazonas es considerado el más largo del mundo, con una longitud aproximada de 6,400 kilómetros."
+    },
+  {
+      "category": "Deportes",
+      "question": "¿Que pais gano la copa del mundo en futbol el año 2022?",
+      "options": ["Brasil", "Argentina", "Francia"]
+      "answer": 1
+      "explanation": "Argentina fue el pais en quedarse con el trofeo mas valioso para cualquier futbolista."
+    },
+  {
+      "category": "Deportes",
+      "question": "¿En qué deporte se utiliza un guante de bateo?",
+      "options": ["Basquetbol", "Rugby", "Béisbol"]
+      "answer": 2
+      "explanation": "El guante de bateo se utiliza en el béisbol para proteger la mano del jugador defensivo y atrapar la pelota."
+    },
+  {
+      "category": "Arte",
+      "question": "¿Quién pintó el famoso cuadro 'La noche estrellada'?",
+      "options": ["Vincent van Gogh", "Rembrandt", "Lionel Messi"]
+      "answer": 0
+      "explanation": "'La noche estrellada' es una obra maestra de Vincent van Gogh, uno de los pintores más influyentes de la historia del arte."
+    },
+  {
+      "category": "Arte",
+      "question": "¿Quién es el autor de la obra teatral 'Romeo y Julieta'?",
+      "options": ["Gabriel Garcia Marquez", "Isabel Allende", "William Shakespeare"]
+      "answer": 
+      "explanation": 
+    },
+  {
+      "category": "Cine",
+      "question": "¿Quién dirigió la película 'El Padrino'?",
+      "options": ["Francis Ford Coppola", "Juan Martin Campanella", "Adam Smith"]
+      "answer": 0
+      "explanation": "'El Padrino' fue dirigida por Francis Ford Coppola y se ha convertido en un clásico del cine del género de gangsters."
+    }
+]
