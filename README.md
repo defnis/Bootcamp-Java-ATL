@@ -22,8 +22,9 @@ A traves de un formulario, solamente 100 personas fuemos seleccionadas para pode
 
 ## Datos de Contacto del Bootcamp
 
-Los invito a seguir a Lucas Moyano a travez de sus redes sociales y poder unirse a este hermoso mundo de la programacion./n
-Link del canal de youtube: https://www.youtube.com/@atl.academy /n
+Los invito a seguir a Lucas Moyano a travez de sus redes sociales y poder unirse a este hermoso mundo de la programacion.<br>
+Link del canal de youtube: https://www.youtube.com/@atl.academy <br>
+
 Ling de la Academia: https://atl.academy/ 
 
 
